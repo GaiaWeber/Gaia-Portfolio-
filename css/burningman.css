@@ -94,14 +94,26 @@ font-family: helvetica, sans-serif;
 letter-spacing: 1px;
 font-size: 13px;
 vertical-align: middle;
-line-height: 22px; 
-text-align: right;
+line-height: 20px; 
+text-align: center;
 background-color: #4d4d4d;
 font-weight: lighter;
 display: inline-block;
 position: relative;
-left: 1150px;
 padding:2px 25px;
+ }
+
+ .button li{
+ 	display: inline; 
+ }
+
+ .button1{
+ 	float: right;
+ 	padding-right: 200px;
+ }
+
+ .button2{
+ 	padding-left: 150px;
  }
 
 
