@@ -47,34 +47,42 @@ text-align: center;
 }
 
 main{
-padding-left: 220px;
-vertical-align: middle;
+padding-left: 300px;
 
 }
 
-img{
+.profile img{
 	float:left;
-	margin-right: 50px;
+	margin-right: 55px;
 	margin-bottom: 70px;
 }
 
 h2{
 	text-decoration: none; 
 	color: black;
-	line-height: 100px;
-	font-variant: small-caps;
+	padding-top: 5px;
 	color: #454647;
-	font-family: helvetica, sans-serif;
+	font-family: trebuchet MS, sans-serif;
 	letter-spacing: 5px;
 	font-size: 17px;
 
+
 }
 
+.text img{
+	padding-top: 30px;
+	width: 19px;
+}
+
+
+
 p{
-	margin-right: 340px;
+	margin-right: 400px;
+	    text-align:justify;  
+	padding-top: 0px;
 font-family: helvetica;
 	font-size: 12px;
 	font-weight: lighter;
-	letter-spacing: 2px;
-	line-height: 30px;
+	letter-spacing: 1px;
+	line-height: 25px;
 }
