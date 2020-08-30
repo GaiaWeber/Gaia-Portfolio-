@@ -64,22 +64,29 @@ font-size: 13px;
 vertical-align: middle;
 line-height: 20px; 
 text-align: center;
-display: inline-block;
 position: relative;
 padding:2px 25px;
  }
- .button li{
- 	display: inline; 
+ .button {
+ 	display: flex; 
+ 	align-items: center;
+ 	list-style: none;
  }
 
  .button1{
- 	float: right;
- 	padding-right: 260px;
+ 	
  }
 
  .button2{
-padding-left: 210px;
+ 	padding-left: 210px;
+ }
+
+.animation{
+	padding-left: 122px;
+	padding-right: 122px;
 }
+
+
 
 
 
