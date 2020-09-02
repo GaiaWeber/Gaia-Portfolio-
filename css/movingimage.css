@@ -97,7 +97,7 @@ padding:2px 25px;
 	display: flex;
 	padding-left: 250px;
 	padding-top: 20px;
-	padding-right: 30px;
+	padding-right: 300px;
 	padding-bottom: 60px;
 }
 
@@ -106,6 +106,10 @@ padding:2px 25px;
 	width: 100%;
 	height: auto;
 	padding-left: 100px;
+}
+
+.row video{
+	padding-bottom: 50px;
 }
 
 .fit-image {
