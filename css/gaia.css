@@ -1,12 +1,18 @@
 header{
 	text-align: center; 
-	padding-top: 20px;
+	padding-top: 0px;
+}
+
+
+.header-image {
+	padding-right: 9px;
 }
 
 #wrapper{ 
 max-width: 960px;
 margin: 0 auto;
-padding: 32px;
+padding-top: 42px;
+padding-bottom: 15px;
  }
 
 header h1{ 
@@ -14,8 +20,8 @@ header h1{
 	letter-spacing: 10px;
 	text-transform: uppercase;
 	text-align: center;
-	line-height: 50px;
-padding-bottom:10px;
+	line-height: 0px;
+padding-bottom:25px;
 text-align: center; 
 }
 
@@ -29,7 +35,6 @@ text-align: center;
 
 .nav li{
 	display: inline; 
-	padding-top: 0 10px 0 10px
 }
 
 .nav a{
