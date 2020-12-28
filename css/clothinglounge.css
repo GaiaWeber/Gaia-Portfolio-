@@ -103,7 +103,7 @@ padding:2px 25px;
 	font-family: helvetica;
 	font-size: 12px;
 	font-weight: lighter;
-	letter-spacing: 1.5px;
+	letter-spacing: 1.5px; 
 	line-height: 25px;
 }
 
@@ -120,10 +120,12 @@ padding:2px 25px;
 
 
 main{
-	padding-bottom: 50px;
+	padding-bottom: 40px;
 
 }
 
 .video{
 	padding-left: 200px;
 }
+
+
